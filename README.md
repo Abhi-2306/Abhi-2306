@@ -26,7 +26,7 @@
 ```ts
 const abhijith = {
   education : "MS Computer Science @ Northeastern University (GPA: 4.0)",
-  undergrad  : "BTech Computer Engineering @ CVR College of Engineering, Hyderabad",
+  undergrad  : "BTech Computer Science and Engineering @ CVR College of Engineering, Hyderabad",
   location   : "Boston, MA",
   seeking    : ["SWE Intern", "Full Stack Intern", "AI Engineering Intern"],
   cycles     : ["Summer 2026", "Fall 2026"],
