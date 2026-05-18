@@ -90,5 +90,5 @@ const abhijith = {
 </div>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Abhi-2306?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Abhijith23?theme=dark&font=Fira%20Code&ext=heatmap" />
 </div>
