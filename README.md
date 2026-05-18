@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abhijith-pandiri">
+  <a href="https://www.linkedin.com/in/abhijith-pandiri-7a0350273">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://abhi-porfolio.vercel.app">
