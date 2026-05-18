@@ -88,3 +88,7 @@ const abhijith = {
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Abhi-2306&theme=tokyonight&hide_border=true" />
 </div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Abhi-2306?theme=dark&font=Fira%20Code&ext=heatmap" />
+</div>
